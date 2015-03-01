@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Showcase</string>
+    <string name="anim_first">Primeira view</string>
+    <string name="anim_second">Segunda view</string>
+    <string name="anim_third">Finalizar</string>
+
+    <string name="showcase_main_title">Exemplo do Showcase</string>
+    <string name="showcase_main_message">Pressione o botão Alterar Estilo para aplicar um novo tema.</string>
+
+    <string name="button_hide">Alterar Estilo</string>
+    <string name="button_show">Ver</string>
+
+    <string name="title_multiple_showcase_view">Exemplo 1</string>
+    <string name="sum_multiple_showcase_view">Showcase em multiplas view.</string>
+
+    <string name="next">Próximo</string>
+    <string name="close">Fechar</string>
+
+    <string name="title_finish">Finalizar</string>
+    <string name="sum_finish">Você está pronto para usar o sistema</string>
+
+    <string name="title">Titulo </string>
+    <string name="summary">Funcionalidade </string>
+
+</resources>
